@@ -2,11 +2,20 @@
     background-color: beige;
     box-sizing: border-box;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
     text-align: center;
     color: white;
-    text-shadow: 2px 2px 1px black;
-    
+    text-shadow: 2px 2px 5px black;
+    font-size: 3rem;
+}
+
+p{
+    margin: 1em 1em;
+    padding: 1.5em 2em;
+    font-size: 1.3rem;
+    background-color: rgb(255, 202, 202);
+    border-radius: 8px;
 }
